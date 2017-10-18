@@ -1,0 +1,15 @@
+tr:nth-child(1) {
+    background-color: rgb(72, 137, 242);
+}
+tr:nth-child(2) {
+    background-color: rgb(152,427,372);
+}
+tr:nth-child(3) {
+    background-color: rgb(426, 324, 144);
+}
+tr:nth-child(4) {
+    background-color: rgb(533, 134, 245);
+}
+tr:nth-child(5) {
+    background-color: rgb(164, 240, 72);
+}
